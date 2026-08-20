@@ -159,6 +159,8 @@ endif
 
 PRODUCT_PACKAGES += \
     LineageSettingsProvider \
+    SportsFetcher \
+    OmniJaws \
     Updater
 
 PRODUCT_COPY_FILES += \
